@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Young Thug Best Friend.ogg-f1fafc066ba9619b1b060349002d69f5.oggstr"
+
+[deps]
+
+source_file="res://assets/audio/Young Thug Best Friend.ogg"
+dest_files=[ "res://.import/Young Thug Best Friend.ogg-f1fafc066ba9619b1b060349002d69f5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

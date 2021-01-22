@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Adverts.gd" type="Script" id=1]
+[ext_resource path="res://adverts/admob.gd" type="Script" id=2]
+
+[node name="Adverts" type="Node"]
+script = ExtResource( 1 )
+
+[node name="AdMob" type="Node" parent="."]
+script = ExtResource( 2 )
+is_real = true
+banner_id = "ca-app-pub-3940256099942544/6300978111"
+interstitial_id = "ca-app-pub-3940256099942544/1033173712"
+rewarded_id = "ca-app-pub-3940256099942544/5224354917"
+[connection signal="interstitial_closed" from="AdMob" to="." method="_on_AdMob_interstitial_closed"]

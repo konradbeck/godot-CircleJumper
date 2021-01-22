@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="musicOff.svg"
+   inkscape:export-filename="F:\Dev\Godot\Projects\KidsCanCode\circle_jump\assets\images\buttons\musicOff.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="73.898697"
+     inkscape:cy="83.715105"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     showborder="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-nodes="false"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect833"
+       style="fill:#ffffff;stroke-width:0.334528"
+       d="M 32.162109 10 C 31.907758 10 31.665604 10.03529 31.431641 10.085938 L 48.789062 27.443359 L 76.605469 27.443359 L 76.605469 51.724609 A 16.372091 13.233084 0 0 0 73.626953 51.503906 A 16.372091 13.233084 0 0 0 72.863281 51.517578 L 89.458984 68.113281 A 16.372091 13.233084 0 0 0 90 64.736328 A 16.372091 13.233084 0 0 0 89.876953 63.128906 C 89.956096 62.918462 90 62.69484 90 62.462891 L 90 25.169922 L 90 12.273438 C 90 11.013971 88.745724 10 87.1875 10 L 32.162109 10 z M 29.349609 32.664062 L 29.349609 63.753906 A 16.372091 13.233084 0 0 0 26.373047 63.533203 A 16.372091 13.233084 0 0 0 10 76.767578 A 16.372091 13.233084 0 0 0 26.373047 90 A 16.372091 13.233084 0 0 0 42.744141 76.767578 A 16.372091 13.233084 0 0 0 42.623047 75.158203 C 42.70219 74.947759 42.744141 74.726079 42.744141 74.494141 L 42.744141 46.058594 L 29.349609 32.664062 z M 57.861328 61.175781 A 16.372091 13.233084 0 0 0 57.255859 64.736328 A 16.372091 13.233084 0 0 0 73.626953 77.970703 A 16.372091 13.233084 0 0 0 74.630859 77.945312 L 57.861328 61.175781 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.956196"
+       id="rect831"
+       width="2.7608747"
+       height="30.03157"
+       x="0.30628169"
+       y="4.298799"
+       ry="1.4342945"
+       transform="rotate(-45)" />
+  </g>
+</svg>

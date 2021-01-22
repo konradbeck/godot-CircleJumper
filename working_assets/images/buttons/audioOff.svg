@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="audioOff.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="375.24491"
+     inkscape:cy="462.46526"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     showborder="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="1368"
+     inkscape:window-x="1266"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:object-nodes="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;stroke-width:0.0513215"
+       d="m 99.477989,109.24708 c -1.125886,-0.014 -3.998714,2.53693 -5.484401,4.62204 H 93.08729 c -0.5975,0 -1.078437,0.53302 -1.078437,1.1953 v 1.32863 c 0,0.66227 0.480937,1.1953 1.078437,1.1953 h 0.723398 c 1.577771,2.36485 5.201363,5.53106 5.984942,4.77346 1.00848,-0.97506 1.00848,-12.02547 0,-13.00053 -0.07879,-0.0762 -0.186373,-0.11257 -0.317641,-0.1142 z"
+       id="path835"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"
+       inkscape:export-filename="F:\Dev\Godot\Projects\KidsCanCode\circle_jump\assets\images\buttons\audioOff.png" />
+  </g>
+</svg>
